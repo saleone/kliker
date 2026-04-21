@@ -1,0 +1,7 @@
+## Interface: 11505
+## Title: kliker
+## Notes: Disables clicking on raid-style party frames while in arena matches (Classic/TBC Anniversary).
+## Author: Sasa Savic (https://github.com/saleone)
+## Version: 0.1
+
+kliker.lua
